@@ -1,17 +1,18 @@
 /*
 
-6.Write a program to print the following star pattern
-
+* *
 * * * * *
-*
+* *
+* *
 * * * * * * * * * *
-*
-*
+* *
+* *
+* *
 * * * * * * * * * * * * * * *
-*
-*
-*
-* * * * * * * * * * * * * * * * * * * *
+* *
+* *
+* *
+* *
 
 */
 
@@ -23,9 +24,10 @@ int main()
     int i=0, j=0;
     int count = 1;
     int patternConst = 5;
+
     for(i = 0; i < n; i++)
     {
-        if(i % 2 == 0)
+        if(i % 2 != 0)
         {
             for(j = 0; j < patternConst * count ; j++)
             {
@@ -35,9 +37,9 @@ int main()
             count ++;
         }
         else{
-            for(j = 0; j < count-1 ; j++)
+            for(j = 0; j < count ; j++)
             {
-                printf("*\n");
+                printf("**\n");
             }
             
         }
