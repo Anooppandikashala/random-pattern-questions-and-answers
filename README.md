@@ -1,18 +1,4 @@
-+--------+------------------------------------------------------------+
-| > 40\. | > Write a program to find the maximum and minimum element  |
-|        | > in an array.                                             |
-+========+============================================================+
-| > 41\. | > Write a program to separate odd and even integers in     |
-|        | > separate arrays.                                         |
-+--------+------------------------------------------------------------+
-| > 42\. | > Write a program to insert New value in the array (sorted |
-|        | > list ).                                                  |
-+--------+------------------------------------------------------------+
-| > 43\. | Write a program to insert New value in the array (unsorted |
-|        | list ) in (specific                                        |
-+--------+------------------------------------------------------------+
 
-> position).
 >
 > 1.Write a program to print the following star pattern \* \*\
 > \*\
