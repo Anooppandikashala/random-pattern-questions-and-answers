@@ -1,6 +1,13 @@
 
 # random-pattern-questions-and-answers
-# Contribute unsolved questions
+## How to Contribute(unsolved questions)
+
+1.  check the pattern you want to solve
+2.  fork the repo
+3.  create new branch and add your answers
+4.  push to your forked repo
+5.  finally create a Pullrequest
+
 
 >
 > 1.Write a program to print the following star pattern \* \*\
